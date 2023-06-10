@@ -1,6 +1,6 @@
 <h1 align="center">InfoHubLists</h1>
 <p align="center">InfoHubLists provides you with organized and responsive lists with the information you need, made with HTML and CSS</p>
-<p align="center">Follow the creator(Happy Life): https://github.com/hluciana</p>
+<p align="center">Creator(Happy Life): https://github.com/hluciana</p>
 
 ![Info-Hub-Lists.png](https://i.postimg.cc/HLbDzY8W/Info-Hub-Lists.png)
 
